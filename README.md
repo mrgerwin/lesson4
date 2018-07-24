@@ -21,7 +21,7 @@ if grade =  100 then
 if grade >= 91
 	print(“You have an A”)
 ```
-Assuming that you fixed the program, predict the output if grade is:
+Assuming that you fixed the program, predict the output if grade is
 3. 101?
 4. 95?
 5. 100?
